@@ -3,4 +3,6 @@
 ## Getting Started
 
 1. Start app: 
+
 		ruby run.rb
+
